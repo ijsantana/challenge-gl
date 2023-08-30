@@ -59,7 +59,7 @@ public class User {
         return this;
     }
 
-    private User withPassword(String password){
+    public User withPassword(String password){
         //TODO: ENCRIPTAR LA CONTRASEÑA EN LA BD
         this.password = password;
         return this;
