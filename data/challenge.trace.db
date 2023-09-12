@@ -1,0 +1,12 @@
+2023-09-07 11:51:14 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PHONEE" no encontrada
+Table "PHONEE" not found; SQL statement:
+SELECT * FROM PHONEe [42102-200]
+2023-09-07 11:51:15 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PHONEE" no encontrada
+Table "PHONEE" not found; SQL statement:
+SELECT * FROM PHONEe [42102-200]
+2023-09-07 11:51:15 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PHONEE" no encontrada
+Table "PHONEE" not found; SQL statement:
+SELECT * FROM PHONEe [42102-200]
